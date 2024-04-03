@@ -43,3 +43,18 @@ h1{
 #h2{
     text-align: center;
 }
+.start1{
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+    margin-left: 650px;
+}
+.start2{
+    margin-left: 85px;
+    height: 50px;
+    width: 50px;
+    font-size: 40px;
+}
+.h3{
+    text-align: center;
+}
